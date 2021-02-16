@@ -46,6 +46,8 @@ app.*.map.json
 /android/app/release
 
 
-#keys
+#keys and files
 /lib/constants.dart
 /lib/services
+/android/app/google-services.json
+/android/app/proguard-rules.pro
